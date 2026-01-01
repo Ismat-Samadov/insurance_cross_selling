@@ -1,6 +1,2 @@
-venv
-.vscode
-.kaggle
-.env
-.csv
-.zip
+.claude
+.DS_Store
